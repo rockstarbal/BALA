@@ -1,0 +1,29 @@
+[33mcommit e82835e6e7e41a274bcd5650aabbe4871384d406[m[33m ([m[1;36mHEAD -> [m[1;32mbranch3[m[33m)[m
+Author: root <root@ip-172-31-3-133.ec2.internal>
+Date:   Sun Feb 5 06:38:37 2023 +0000
+
+    THIS IS MY FIFTH COMMIT
+
+[33mcommit 0680ff05e0f7fa229a1a79e770639cd5d85c28bd[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: root <root@ip-172-31-3-133.ec2.internal>
+Date:   Sun Feb 5 06:35:51 2023 +0000
+
+    THIS IS MY FOURTH COMMIT
+
+[33mcommit 04d442e8a4ce11a8ce79bfee1e6e4d079be6c3ef[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-3-133.ec2.internal>
+Date:   Sun Feb 5 06:24:59 2023 +0000
+
+    THIS IS MY THIRD COMMIT
+
+[33mcommit 7dfd55d4aa9dda08451bc72a14eee4d27c456028[m
+Author: root <root@ip-172-31-3-133.ec2.internal>
+Date:   Sun Feb 5 06:20:23 2023 +0000
+
+    THIS IS MY SECOND COMMIT
+
+[33mcommit 9212e88d5408d9269aa3319e6468b549d7885209[m
+Author: root <root@ip-172-31-3-133.ec2.internal>
+Date:   Sun Feb 5 06:18:33 2023 +0000
+
+    THIS IS MY FIRST COMMIT
